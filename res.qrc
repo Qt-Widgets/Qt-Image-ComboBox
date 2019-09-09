@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>imageFormats.json</file>
+    </qresource>
+</RCC>
